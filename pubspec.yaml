@@ -1,8 +1,8 @@
 name: selective_gesture_wrapper
 description: "A lightweight widget that selectively absorbs or passes gestures to its child."
 version: 0.0.1
-homepage: https://github.com/sourabhappdev/selective_gesture_wrapper/tree/dev
-repository: https://github.com/sourabhappdev/selective_gesture_wrapper/tree/dev
+homepage: https://github.com/sourabhappdev/selective_gesture_wrapper/tree/main
+repository: https://github.com/sourabhappdev/selective_gesture_wrapper/tree/main
 issue_tracker: https://github.com/sourabhappdev/selective_gesture_wrapper/issues
 
 environment:
