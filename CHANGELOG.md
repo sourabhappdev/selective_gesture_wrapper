@@ -1,3 +1,11 @@
+## [0.0.2] - Documentation update
+
+### 📝 Docs
+- Improved README.md with more detailed and clearer documentation.
+- Added usage examples and clarified `SelectiveGestureWrapper` behavior.
+
+---
+
 ## [0.0.1] - Initial release
 
 ### 🎉 Features
@@ -9,5 +17,3 @@
 ### 🔧 Technical
 - Pure Dart/Flutter implementation.
 - Lightweight, dependency-free.
-
----
